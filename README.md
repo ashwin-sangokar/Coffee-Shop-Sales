@@ -68,18 +68,4 @@ The dashboard enables stakeholders to quickly understand:
 
 ---
 
-## 🔮 Future Improvements
-- Add profit and cost analysis
-- Perform month-over-month growth comparison
-- Rebuild the dashboard using Power BI
-- Integrate SQL for deeper analysis
 
----
-
-## 📷 Dashboard Preview
-_Add dashboard screenshot here_
-
----
-
-## 📁 Project Status
-**Completed**
